@@ -30,7 +30,7 @@ body{
     box-shadow: 0 8px 10px -10px hsl(240, 100%, 1%);  
   }
 .img-mobile{
-  background-image: url(/images/image-header-mobile.jpg);
+  background-image: url(images/image-header-mobile.jpg);
   width: 300px;
   height: 221px;
   background-repeat: no-repeat;
@@ -127,7 +127,7 @@ li{
         margin-left: 500px;
         border-top-right-radius:  10px;
         border-bottom-right-radius:  10px;
-        background-image: url(/images/image-header-desktop.jpg);
+        background-image: url(images/image-header-desktop.jpg);
         background-size:contain;
         background-repeat: no-repeat;
         opacity: 1;
